@@ -1,1 +1,104 @@
+{
+  "contact_information": {
+    "name": "Kanishka Rajendran",
+    "location": "Jalandhar, Punjab - 144411",
+    "phone": "8248484386",
+    "email": "kanishkarajendran2003@gmail.com",
+    "linkedin": "linkedin.com/in/kanishka-rajendran23/",
+    "github": "github.com/KanishkaRajendran/"
+  },
+  "internship": {
+    "title": "Data Science and Business Analytics Intern",
+    "company": "The Sparks Foundation",
+    "duration": "Oct 2023 – Jan 2024",
+    "responsibilities": [
+      "Worked on various problem statements involving web scraping, data cleaning, and creating insights.",
+      "Improved user experience and productivity by implementing comprehensive row grouping, column filtering, and data filtering.",
+      "Gained knowledge of creating dashboards in Tableau and Power BI."
+    ]
+  },
+  "projects": [
+    {
+      "title": "Object Detection using TensorFlow",
+      "technologies": ["Python", "Machine Learning", "Deep Learning", "OpenCV"],
+      "duration": "June 2024 - July 2024",
+      "description": [
+        "Integrated a pre-trained model into the code using TensorFlow and OpenCV among other libraries.",
+        "Distinguishes up to 90 different objects and matches them to their respective classes for human understanding."
+      ]
+    },
+    {
+      "title": "WALMART",
+      "technologies": ["Python", "Machine Learning", "Time Series"],
+      "duration": "Jan 2024 - Mar 2024",
+      "description": [
+        "Implemented sophisticated time series forecasting models (ARIMA/SARIMA) for Walmart, optimizing inventory management and strategic decision-making.",
+        "Translated forecast insights into actionable recommendations, providing stakeholders with data-driven decision support for improved project efficiency and profitability."
+      ]
+    },
+    {
+      "title": "Face Expression Image Classification using Scikit-learn",
+      "technologies": ["Python", "Scikit-learn", "Matplotlib"],
+      "duration": "Dec 2023 - Feb 2024",
+      "description": [
+        "Strong understanding of machine learning algorithms, feature engineering, and model evaluation techniques.",
+        "Experience in data preprocessing, including image manipulation and augmentation."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Introduction to AI",
+      "date": "Feb 2024",
+      "provider": "Coursera",
+      "link": "coursera.org/share/01eb9869d611004bb8c6d45d34c7f25a"
+    },
+    {
+      "title": "Machine Learning Specialization",
+      "date": "Jan 2024",
+      "provider": "Coursera",
+      "link": "coursera.org/share/01eb9869d611004bb8c6d45d34c7f25a"
+    },
+    {
+      "title": "Complete Theory of Automation",
+      "date": "Nov 2023",
+      "provider": "Udemy",
+      "link": "www.udemy.com/certificate/UC-7b7cfbd1-4d3a-49ea-a7f5-ef0c90bd0423/"
+    },
+    {
+      "title": "AWS Cloud Technical Essentials",
+      "date": "Mar 2023",
+      "provider": "Coursera",
+      "link": "coursera.org/share/7b6453005ccf132ad1be86956c27e8f3"
+    }
+  ],
+  "technical_skills": {
+    "languages": ["C++", "JavaScript", "Python", "MySQL", "Tableau"],
+    "technologies_framework": ["Git", "GitHub", "Ubuntu", "Windows", "VMWare", "Tableau", "PyTorch", "Computer Vision"],
+    "skills": ["Data Structures and Algorithms", "LLM", "NLP", "EDA", "Problem-Solving", "Scripting in Python and JavaScript"]
+  },
+  "education": [
+    {
+      "institution": "Lovely Professional University",
+      "duration": "2021 – 2025",
+      "degree": "Computer Science and Engineering",
+      "cgpa": "7.5",
+      "location": "Jalandhar, Punjab"
+    },
+    {
+      "institution": "Velammal Schools",
+      "duration": "2019 – 2021",
+      "degree": "12th with Science",
+      "percentage": "93%",
+      "location": "Karur, Tamil Nadu"
+    },
+    {
+      "institution": "SSVM",
+      "duration": "2018 – 2019",
+      "degree": "10th with Science",
+      "percentage": "93%",
+      "location": "Karur, Tamil Nadu"
+    }
+  ]
+}
 
